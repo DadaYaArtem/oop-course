@@ -1,0 +1,24 @@
+[
+  {
+  "studentId":1,
+  "courseName":"Java Dev",
+  "fullName":"full name",
+  "address":"address",
+  "phoneNumber":"1234567890",
+  "grades":[
+      {"studentId":1,"subject":"MATH","grade":100},
+      {"studentId":1,"subject":"MATH","grade":98}
+  ]
+  },
+  {
+    "studentId":2,
+    "courseName":"Fullstack",
+    "fullName":"new full name",
+    "address":"new address",
+    "phoneNumber":"1234567890",
+    "grades":[
+      {"studentId":1,"subject":"MATH","grade":56},
+      {"studentId":1,"subject":"MATH","grade":87}
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+  "courseName":"Java Dev",
+  "fullName":"Full Name",
+  "address":"Address",
+  "phoneNumber":"123455677",
+  "experience":12,
+  "cabinet":13,
+  "subject":"PROGRAMMING"
+  },
+  {
+  "courseName":"Fullstack",
+  "fullName":"new Full name",
+  "address":"new Address",
+  "phoneNumber":"009998887765",
+  "experience":15,
+  "cabinet":13,
+  "subject":"MATH"
+  }
+]
